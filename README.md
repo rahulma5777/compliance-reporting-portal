@@ -1,8 +1,7 @@
 # Compliance Reporting Portal
 
-<<<<<<< HEAD
 This is a showcase project.
-=======
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/rahulma5777/compliance-reporting-portal)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rahulma5777/compliance-reporting-portal)
 ![GitHub license](https://img.shields.io/github/license/rahulma5777/compliance-reporting-portal)
@@ -40,4 +39,3 @@ An enterprise-grade web application developed using **ASP.NET Core**, **React**,
 
 ## 📂 Folder Structure
 
->>>>>>> f6ec99603a726faab7bf7807f74631ca711058d6
